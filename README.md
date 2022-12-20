@@ -1,2 +1,1 @@
-# TinDog
-Pair finder for pet dogs
+TinDog Starting Files
